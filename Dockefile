@@ -1,0 +1,3 @@
+
+FROM susheeldevops/webapp
+ADD . /var/www/html
